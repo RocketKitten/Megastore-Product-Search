@@ -1,8 +1,8 @@
-# Megastore Product Search for Megastore Simulator
+# Megastore Product Search
 
-A native search bar for the Products window in **Megastore Simulator**.
+![Megastore Product Search Banner](banner.png)
 
-Designed to blend seamlessly with the game's interface while making it much easier to find products.
+Adds a native Unity search bar to the Products window with live filtering, smart search commands, a clear button, and product count display.
 
 ---
 
@@ -10,11 +10,11 @@ Designed to blend seamlessly with the game's interface while making it much easi
 
 - Native Unity UI search bar
 - Live filtering while typing
-- Clear button
-- Live product count
 - Smart search filters
+- Product count display
+- Clear button
 - Supports localized product names
-- Lightweight and performance friendly
+
 
 ---
 
