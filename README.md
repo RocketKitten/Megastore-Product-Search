@@ -38,11 +38,6 @@ license:3 shelf:cool
 ```
 ---
 
-## Screenshot
-
-*A screenshot of the Products window with the search bar will be added here.*
----
-
 ## Installation
 
 ### Requirements
