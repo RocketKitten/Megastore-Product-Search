@@ -14,6 +14,23 @@ Adds a native Unity search bar to the Products window with live filtering, smart
 - Product count display
 - Clear button
 - Supports localized product names
+- ---
+
+## Screenshots
+
+### Product Catalog
+
+The Products window with the native search bar integrated into the top title area.
+
+![Product Catalog](products-view.png)
+
+### Live Search Filtering
+
+Typing `apple` instantly filters the catalog to matching products.
+
+![Apple Search Example](apple-search.png)
+
+---
 
 
 ---
